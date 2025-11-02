@@ -1,14 +1,14 @@
 # pythonic-essentials
 A practical introduction to Python and coding principles
 # Table of contents
-[Minimal syntactic requirements](#Minimal-syntactic-requirements)
-[Functions](#functions)
-[Variables](#variables)
-[Modules and Imports](#modules-and-imports)
-[Control flow: loops and conditionals](#Control-flow:-loops-and-conditionals)
-[Python Dictionaries and Relational Data](#Python-Dictionaries-and-Relational-Data)
-[Objects and Object Oriented Programming](#Objects-and-Object-Oriented-Programming)
-[SQlite databases](#SQlite-databases)
+- [Minimal syntactic requirements](#Minimal-syntactic-requirements)
+- [Functions](#functions)
+- [Variables](#variables)
+- [Modules and Imports](#Modules-and-imports)
+- [Control flow: loops and conditionals](#Control-flow:-loops-and-conditionals)
+- [Python Dictionaries and Relational Data](#Python-Dictionaries-and-Relational-Data)
+- [Objects and Object Oriented Programming](#Objects-and-Object-Oriented-Programming)
+- [SQlite databases](#SQlite-databases)
 ---
 # Minimal syntactic requirements
 
