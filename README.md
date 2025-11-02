@@ -1,4 +1,4 @@
-# pythonic-essentials
+# Pythonic Essentials
 A practical introduction to Python and coding principles
 # Table of contents
 - [Minimal syntactic requirements](#Minimal-syntactic-requirements)
