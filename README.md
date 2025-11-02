@@ -5,7 +5,7 @@ A practical introduction to Python and coding principles
 - [Functions](#functions)
 - [Variables](#variables)
 - [Modules and Imports](#Modules-and-imports)
-- [Control flow: loops and conditionals](#Control-flow:-loops-and-conditionals)
+- [Loops and conditionals](#Loops-and-conditionals)
 - [Python Dictionaries and Relational Data](#Python-Dictionaries-and-Relational-Data)
 - [Objects and Object Oriented Programming](#Objects-and-Object-Oriented-Programming)
 - [SQlite databases](#SQlite-databases)
@@ -191,7 +191,7 @@ print(message)
 
 This approach helps keep code organized, avoids repetition, and makes it easier to manage larger projects. By breaking code into modules and optionally building your own libraries, you can reuse and share functionality across multiple programs.
 
-# Control flow: loops and conditionals 
+# Loops and conditionals 
 
 **Control flow** in Python determines the order in which the program’s instructions are executed. By default, Python executes code line by line from top to bottom, but sometimes you want your program to **make decisions** or **repeat actions**. This is where **conditionals** and **loops** come in.
 
